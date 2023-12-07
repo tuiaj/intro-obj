@@ -1,6 +1,6 @@
 ---
 title: "Taylor Swift Song Analysis"
-format: html
+format: dashboard
 ---
 
 ```{ojs}
